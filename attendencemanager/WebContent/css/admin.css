@@ -1,0 +1,67 @@
+.adminheader{
+	font-family:sans-serif;
+	font-size:16px;
+	padding: 20px;	
+	letter-spacing: 1px;
+	font-weight: bold;
+	color: rgb(123,55,4);
+}
+
+.adminwelcome{
+	color: rgb(112,140,196);
+}
+
+.adminmenu{
+	border-top: solid 1px rgb(118,118,118);
+	border-bottom: solid 1px rgb(118,118,118);
+	padding: 10px;
+}
+
+.content{
+	width: 680px;
+	padding-left: 20px;
+}
+
+.menu{
+	padding:0;
+	margin:0;
+	list-style-type: none;
+}
+
+.menu li{
+	margin-right: 20px;
+	display: inline;
+}
+
+.menu li a{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:13px;		
+	text-decoration: none;
+	color: rgb(22,83,105);
+}
+
+.menu li a:hover{
+	font-weight: bold;		
+}
+
+.msgresult{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:13px;		
+}
+
+.options{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:13px;		
+}
+
+.options li{
+	margin-bottom: 10px;
+}
+
+.loader{
+	text-align: right;
+}
+
+#loader{
+	display: none;
+}

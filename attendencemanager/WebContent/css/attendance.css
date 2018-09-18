@@ -1,0 +1,14 @@
+.rollno{
+	float: left;
+	width: 100px;
+}
+
+.name{
+	float: left;
+	width: 200px;
+}
+
+.atttype{
+	float: left;
+	width: 250px;
+}

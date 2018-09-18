@@ -1,0 +1,26 @@
+.viewresult{
+	padding:20px;
+	text-align: center;	
+}
+
+.viewresult a{
+	text-decoration: none;
+	font-size: 18px;
+}
+.viewresult a:hover{
+	font-weight: bold;
+	color: rgb(230,30,30);
+}
+
+.leftimage{
+	padding-top:20px;
+	float:left;
+	width:350px;
+}
+
+.loginbox{
+	float:left;
+	padding-top: 60px;
+	width:390px;
+}
+
